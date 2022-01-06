@@ -10,6 +10,7 @@ namespace D01_Console
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("olá");
         }
     }
 }
